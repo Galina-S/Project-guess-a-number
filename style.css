@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(133, 165, 154);
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    font-weight: bold;
+}
+button {
+        width: 200px;
+        color: rgb(19, 68, 66);
+        margin-top: 20px;
+        font-size: 15px;
+        cursor: pointer
+}
